@@ -11,8 +11,8 @@ blablablabla
 
 ## Requirements
 
-- [TLP](https://linrunner.de/tlp/installation/)
 - `sudo apt update && sudo apt upgrade`
+- [TLP](https://linrunner.de/tlp/installation/)
 - [TLPUI](https://github.com/d4nj1/TLPUI/) *(optional)*
 
 ## Installation
@@ -21,7 +21,14 @@ First, make sure you have all the required tools installed on your local machine
 
 
 ```bash
-# ./
+# Clone the repository
+git clone https://github.com/NathanFAIN/TLP-Installation.git
+
+# Enter into the directory
+cd TLP-Installation/
+
+# Install the dependencies
+./install.sh
 ```
 
 ## Authors
