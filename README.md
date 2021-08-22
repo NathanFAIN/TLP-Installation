@@ -1,6 +1,5 @@
 <h1 align="center" style="margin-top: 0px;">TLP-Installation</h1>
 
-blablablabla
 [TLP - Optimize Linux Laptop Battery Life](https://linrunner.de/tlp/)
 
 ## Table of content
